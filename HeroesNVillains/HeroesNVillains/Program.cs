@@ -52,6 +52,7 @@ namespace HeroesNVillains
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Susikurk heroju ir laimek musi");
         }
     }
 }
